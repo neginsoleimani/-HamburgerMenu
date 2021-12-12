@@ -8,8 +8,8 @@
 * Use React Library
 * Use styled components 
 
-! Adding (node-moudels-for-adding.zip) in your node-moudels file or use:
+:information_desk_person: Adding (node-moudels-for-adding.zip) in your node-moudels file or use:
 <br>
---> npm i styled-componentsnpm
+:point_right: npm i styled-componentsnpm
 <br>
---> npm i bootstrap-icons
+:point_right: npm i bootstrap-icons
