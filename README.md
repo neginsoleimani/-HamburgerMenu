@@ -1,5 +1,7 @@
 ![Project image](https://rozup.ir/view/3442718/Screenshot(406).png "Hamburger Menu")
-![Project image](https://rozup.ir/view/3442717/Screenshot(407).png=250x250 "Hamburger Menu" )
+<img src="https://rozup.ir/view/3442717/Screenshot(407).png" width="300">
+<img src="https://rozup.ir/view/3442722/408.png" width="300">
+
 # Hamburger Menu
 * rtl
 * Responsive design
@@ -7,5 +9,7 @@
 * Use styled components 
 
 ! Adding (node-moudels-for-adding.zip) in your node-moudels file or use:
-* npm i styled-componentsnpm 
-* npm i bootstrap-icons
+<br>
+--> npm i styled-componentsnpm
+<br>
+--> npm i bootstrap-icons
